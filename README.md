@@ -3,6 +3,5 @@
 
 Prerequisites
 --
-* Android Version > 5.1
-* Android Studio
---
+* Android Version:  > Android 5.1
+* IDE: Android Studio
